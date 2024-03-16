@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="759e4515-7d8a-4a5a-8996-6613b939a00d" name="Changes" comment="" />
+    <list default="true" id="0e532c86-415e-40c8-a65f-e9d4c931de7c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/averagegrade.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GradeAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradeAverage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,9 +18,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  "associatedIndex": 7
 }]]></component>
-  <component name="ProjectId" id="2dmOiZExdH2TyCDIMciqbCZ9mp3" />
+  <component name="ProjectId" id="2dmSTw5kJRMH1g9dzET4YMevC1l" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,14 +35,21 @@
     "onboarding.tips.debug.path": "/Users/berke/IdeaProjects/averagegrade/src/Main.java"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="759e4515-7d8a-4a5a-8996-6613b939a00d" name="Changes" comment="" />
-      <created>1710609914890</created>
+      <changelist id="0e532c86-415e-40c8-a65f-e9d4c931de7c" name="Changes" comment="" />
+      <created>1710611771904</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710609914890</updated>
+      <updated>1710611771904</updated>
     </task>
     <servers />
   </component>
